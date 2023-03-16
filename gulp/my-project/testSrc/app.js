@@ -1,3 +1,3 @@
 import { add } from './add'
 
-console.log(add(3, 14)) 
+console.log(add(3, 12134)) 
